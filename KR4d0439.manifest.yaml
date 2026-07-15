@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4d0439/v1
 canonical_location: https://kanripo.org/bkk/KR4d0439/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 屏巖小稿
   date: '2015-08-25 00:09:13.752878'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4d0439_000.yaml, hash: 'sha256:4bf48bd3ade1ee88cba4a9beac7d1d0cc12f444c8e3ddf1cb1c2d55ec3f64665'}
-  - {seq: 1, filename: KR4d0439_001.yaml, hash: 'sha256:560571b5eed9bfbaa05378437c6775e592a869953fffb3b33e3019d6ced8fc31'}
+  - {seq: 0, filename: KR4d0439_000.yaml, hash: 'sha256:616238a09fe58bafb4e9d3addd806508226b67ec7927afd749ee5bc6145535c8'}
+  - {seq: 1, filename: KR4d0439_001.yaml, hash: 'sha256:72a56ba4bdc121defae7d032326b0b61840f20dee474dddec19308ef9a6707e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0439_000.markers.yaml, hash: 'sha256:a0a95d96baa2d0ba90dac1d5f5ee390fd95e48fd540dcbfc9a935d320ea0944a'}
-  - {seq: 1, role: markers, filename: assets/KR4d0439_001.markers.yaml, hash: 'sha256:970fb2d10afaac9c13c77693faf1c9af963057af5569b96a22d191b2449a0e12'}
+  - {seq: 0, role: markers, filename: assets/KR4d0439_000.markers.yaml, hash: 'sha256:2b5a3e07751f0253315d4c94b858a8e9a9f17b0358d555707e7170cbc2eeeabd'}
+  - {seq: 1, role: markers, filename: assets/KR4d0439_001.markers.yaml, hash: 'sha256:b3cb11f112c28e90d3f49b0dfe9f164601705cb9c118fc65bbf5fb6fc270f29c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 屏巖小稿
   type: section
   level: 1
-hash: sha256:2d7d70d440307b5015ccc3808829291d1e5603d4d762d7aeeeec48c866abd495
+hash: sha256:800fb9ed652cf7ee3ff9dfa5ee3c8802a92e9affdecc112c7e5213223b79ff0b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
