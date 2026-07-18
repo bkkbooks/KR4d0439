@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0439_000-WYG.yaml, hash: 'sha256:97dfbc932440568821658a952cada25accf3f4ba09984749da270c7b731f5884'}
   - {seq: 1, filename: KR4d0439_001-WYG.yaml, hash: 'sha256:bb60b1c0e2f2c82b1aac576e8257b8bcf5ec61b160f346d48ea5bacd682b7472'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0439_000-WYG.markers.yaml, hash: 'sha256:4073d7112d5d19687104540646c58c71e71359e87bd6c2eb41c9cd7fb37165a9'}
-  - {seq: 1, role: markers, filename: assets/KR4d0439_001-WYG.markers.yaml, hash: 'sha256:650a345ed9b08032fa19c7a15efab756b76227d3b1b5aa902a7f3af30706b9e5'}
+  - {seq: 0, role: markers, filename: assets/KR4d0439_000-WYG.markers.yaml, hash: 'sha256:e561c49ca13ecb1df7111a1389b1134faa1ae646320d1c42b827be83053778e9'}
+  - {seq: 1, role: markers, filename: assets/KR4d0439_001-WYG.markers.yaml, hash: 'sha256:be1de71fd738a18b4a9c7f745904784b4431430fe84344d85f0128d1c0f90696'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 屏巖小稿
   type: section
   level: 1
-hash: sha256:b91de1dea96d462c473b10efd559fb49f92326f834753c2f625f93bb7d07bdfa
+hash: sha256:ca33e6c2411d8aae8ba8d9bf57db545c4b754ea42101315c5858de31e2ba8d2f

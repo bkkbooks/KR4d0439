@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0439_000.yaml, hash: 'sha256:616238a09fe58bafb4e9d3addd806508226b67ec7927afd749ee5bc6145535c8'}
   - {seq: 1, filename: KR4d0439_001.yaml, hash: 'sha256:72a56ba4bdc121defae7d032326b0b61840f20dee474dddec19308ef9a6707e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0439_000.markers.yaml, hash: 'sha256:2b5a3e07751f0253315d4c94b858a8e9a9f17b0358d555707e7170cbc2eeeabd'}
-  - {seq: 1, role: markers, filename: assets/KR4d0439_001.markers.yaml, hash: 'sha256:b3cb11f112c28e90d3f49b0dfe9f164601705cb9c118fc65bbf5fb6fc270f29c'}
+  - {seq: 0, role: markers, filename: assets/KR4d0439_000.markers.yaml, hash: 'sha256:90f39917d713f604e95a6b7d33ae642f8e68f1cfbde16b938aff7ff5cf28ccf7'}
+  - {seq: 1, role: markers, filename: assets/KR4d0439_001.markers.yaml, hash: 'sha256:4900dbcb3d6fbbc870f04c8c4c4636b8ca87c4f5fac079bbd14cc808598a0b61'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 屏巖小稿
   type: section
   level: 1
-hash: sha256:800fb9ed652cf7ee3ff9dfa5ee3c8802a92e9affdecc112c7e5213223b79ff0b
+hash: sha256:cb43ae284d285b4a6f008378772fd27b70804acee4d823b8dab478c20b5ad5ff
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
